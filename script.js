@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = "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";
 
 const DOM = {
   promptForm: document.querySelector(".prompt-form"),
