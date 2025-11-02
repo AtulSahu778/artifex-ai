@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = "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";
 
 const DOM = {
   promptForm: document.querySelector(".prompt-form"),
@@ -181,3 +181,4 @@ DOM.promptForm.addEventListener("submit", (e) => {
     createImageCards(selectedModel, imageCount, aspectRatio, promptText);
   }
 });
+
